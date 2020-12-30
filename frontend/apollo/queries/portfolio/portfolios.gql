@@ -1,0 +1,10 @@
+query Portfolios {
+  portfolios {
+    id
+    title
+    content
+    image {
+      url
+    }
+  }
+}
